@@ -1,6 +1,7 @@
 # Hello IOS
 
-## Purpose of this 
+## First IOS Project
 
 
-![Screenshot of the project](/Users/fathiali/Desktop/IOS/ios-projects/Hello World/Screenshots/Hello-World- iPhone-11-.png
+
+![Screenshot of the Hello World App](./Hello World/Screenshots/Hello-World- iPhone-11-.png "Hello World App.")
